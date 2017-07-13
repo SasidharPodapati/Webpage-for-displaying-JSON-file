@@ -1,0 +1,3617 @@
+[
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "AD harvest sites and subnets API",
+        "filename": "adhapi.dll",
+        "filesize": 23552,
+        "md5": "15923f8b24075ef718750369c86ef527",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "AD harvest sites and subnets API",
+        "filename": "adhapi.dll",
+        "filesize": 18432,
+        "md5": "a4eb5c6ee77f7333051a076e4d00bad5",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "AD harvest sites and subnets API",
+        "filename": "adhapi.dll",
+        "filesize": 18944,
+        "md5": "c1a628bd8c2d30238ce20fcfc82ba956",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "AD harvest sites and subnets API",
+        "filename": "adhapi.dll",
+        "filesize": 23552,
+        "md5": "cea61a9bb1de0c1e8605cec3c37fc454",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "AD harvest sites and subnets API",
+        "filename": "adhapi.dll",
+        "filesize": 18432,
+        "md5": "e4071391584b64cf8bfe280f6539d3b5",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Program Compatibility Data Updater",
+        "filename": "aepdu.dll",
+        "filesize": 321536,
+        "md5": "27a81a5feb2acf01d406efe153e95d4c",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7601.17514"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Program Compatibility Data Updater",
+        "filename": "aepdu.dll",
+        "filesize": 529408,
+        "md5": "57beba67926634f4931eeca9f6f35b6d",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Program Compatibility Data Updater",
+        "filename": "aepdu.dll",
+        "filesize": 412160,
+        "md5": "af84c72ee2e49da2b13ef30daba5b5cc",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7601.17514"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Program Compatibility Data Updater",
+        "filename": "aepdu.dll",
+        "filesize": 519680,
+        "md5": "e9b173bccfdad1cc28a0925563275061",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.17031"
+    },
+    {
+        "bits": 32,
+        "companyname": "NVIDIA Corporation",
+        "description": "APEX Dynamic Link Library",
+        "filename": "APEX_Destructible_Legacy_x86.dll",
+        "filesize": 303384,
+        "md5": "509469618ecae4cb00873525ec883d0a",
+        "os": {
+            "name": "Windows 2000",
+            "versionMajor": 5,
+            "versionMinor": 0
+        },
+        "productname": " APEX Dynamic Link Library",
+        "version": "1.0.0.1"
+    },
+    {
+        "bits": 32,
+        "companyname": "NVIDIA Corporation",
+        "description": "APEX Dynamic Link Library",
+        "filename": "APEX_Destructible_Legacy_x86.dll",
+        "filesize": 545672,
+        "md5": "8d308171682cf915bee030a936152992",
+        "os": {
+            "name": "Windows 2000",
+            "versionMajor": 5,
+            "versionMinor": 0
+        },
+        "productname": " APEX Dynamic Link Library",
+        "version": "1.1.0.1"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Audit Policy Group Policy Editor Extension",
+        "filename": "AuditNativeSnapIn.dll",
+        "filesize": 219648,
+        "md5": "0f533461a46e72a88ac38b3b2558c741",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.17415"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Audit Policy Group Policy Editor Extension",
+        "filename": "AuditNativeSnapIn.dll",
+        "filesize": 224256,
+        "md5": "2caec791abbaf3796b2772c73892db61",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Audit Policy Group Policy Editor Extension",
+        "filename": "AuditNativeSnapIn.dll",
+        "filesize": 217600,
+        "md5": "3fd1437926ef894472d42b681c8e8b5d",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Audit Policy Group Policy Editor Extension",
+        "filename": "AuditNativeSnapIn.dll",
+        "filesize": 223232,
+        "md5": "5835d7ab3d0c4b3695c4afd2ab7b986c",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Audit Policy Group Policy Editor Extension",
+        "filename": "AuditNativeSnapIn.dll",
+        "filesize": 218624,
+        "md5": "a93f9a37ea7191eb0623cc0681c82ff6",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Audit Policy Group Policy Editor Extension",
+        "filename": "AuditNativeSnapIn.dll",
+        "filesize": 220672,
+        "md5": "aaf8ef1a0d8994c432c007d2aff7758b",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Audit Policy Group Policy Editor Extension",
+        "filename": "AuditNativeSnapIn.dll",
+        "filesize": 220672,
+        "md5": "d7606f4b2ae207dcdb7d217e37b91507",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Audit Policy Group Policy Editor Extension",
+        "filename": "AuditNativeSnapIn.dll",
+        "filesize": 217088,
+        "md5": "ddfe42e15c119157a794447d84b62c2f",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": " ",
+        "filename": "AuthFWSnapIn.Resources.dll",
+        "filesize": 1636864,
+        "md5": "4244a7e7af24d352e957e2ad2dceb035",
+        "os": {
+            "name": "Windows NT \/ 95",
+            "versionMajor": 4,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft (R) Windows (R) Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": " ",
+        "filename": "AuthFWSnapIn.Resources.dll",
+        "filesize": 1617920,
+        "md5": "ec3b6cb9627a56ff8214540f84a92633",
+        "os": {
+            "name": "Windows NT \/ 95",
+            "versionMajor": 4,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft (R) Windows (R) Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": " ",
+        "filename": "AuthFWSnapIn.Resources.dll",
+        "filesize": 1636352,
+        "md5": "ed57e02171184c774c04cbb6314ded24",
+        "os": {
+            "name": "Windows NT \/ 95",
+            "versionMajor": 4,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft (R) Windows (R) Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Background Intelligent Transfer Service 3.0 Proxy",
+        "filename": "bitsprx5.dll",
+        "filesize": 18432,
+        "md5": "1ee8f90ead0db665a372b9f8ec3109c2",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "7.5.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Background Intelligent Transfer Service 3.0 Proxy",
+        "filename": "bitsprx5.dll",
+        "filesize": 19968,
+        "md5": "27292e92464357b8e3b6156c1a77ad53",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "7.7.9600.17415"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Background Intelligent Transfer Service 3.0 Proxy",
+        "filename": "bitsprx5.dll",
+        "filesize": 18944,
+        "md5": "acfade64c7d766fe61e8669e6e01743e",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "7.6.9200.16384"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Background Intelligent Transfer Service 3.0 Proxy",
+        "filename": "bitsprx5.dll",
+        "filesize": 32768,
+        "md5": "ba47550ee6d2b1e618ce17aa50a51348",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "7.0.6000.16386"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Background Intelligent Transfer Service 3.0 Proxy",
+        "filename": "bitsprx5.dll",
+        "filesize": 19968,
+        "md5": "bd8b73dbf1d6a703d3c743bae3df2059",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "7.7.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Background Intelligent Transfer Service 3.0 Proxy",
+        "filename": "bitsprx5.dll",
+        "filesize": 17920,
+        "md5": "f9997a74b445a6eab6b3e7758c1dc51c",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "7.0.6000.16386"
+    },
+    {
+        "bits": 32,
+        "companyname": "YANDEX LLC",
+        "description": "Yandex",
+        "filename": "browser_elf.dll",
+        "filesize": 127808,
+        "md5": "b4e573cd6915d852c34a48f5a88bc809",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Yandex",
+        "version": "50.0.2661.30117"
+    },
+    {
+        "bits": 32,
+        "companyname": "YANDEX LLC",
+        "description": "Yandex",
+        "filename": "browser_elf.dll",
+        "filesize": 133072,
+        "md5": "bd44a72b1262b51910e1b4d89b60df28",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Yandex",
+        "version": "46.0.2490.3614"
+    },
+    {
+        "bits": 32,
+        "companyname": "YANDEX LLC",
+        "description": "Yandex",
+        "filename": "browser_elf.dll",
+        "filesize": 132560,
+        "md5": "d9c4f2ebcfc4cef943d981aa297ca030",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Yandex",
+        "version": "42.0.2311.5029"
+    },
+    {
+        "bits": 32,
+        "companyname": "YANDEX LLC",
+        "description": "Yandex",
+        "filename": "browser_elf.dll",
+        "filesize": 132912,
+        "md5": "e06888a51df284ee208675730336772d",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Yandex",
+        "version": "38.0.2125.10034"
+    },
+    {
+        "bits": 32,
+        "companyname": "YANDEX LLC",
+        "description": "Yandex",
+        "filename": "browser_elf.dll",
+        "filesize": 128120,
+        "md5": "e4e19cdc369c1094fe39c6d43a6d6798",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Yandex",
+        "version": "49.0.2623.8950"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "FAT File System Conversion Utility DLL",
+        "filename": "cnvfat.dll",
+        "filesize": 32768,
+        "md5": "190b06b700c09f57a506056605eb0b90",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "FAT File System Conversion Utility DLL",
+        "filename": "cnvfat.dll",
+        "filesize": 33280,
+        "md5": "1d628da4ac79203879378d83d58d5ecf",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "FAT File System Conversion Utility DLL",
+        "filename": "cnvfat.dll",
+        "filesize": 35328,
+        "md5": "31780e856ef2d1c41098def9ec007117",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "FAT File System Conversion Utility DLL",
+        "filename": "cnvfat.dll",
+        "filesize": 26624,
+        "md5": "4d7faff8bf33a340eca3212246c7c39a",
+        "os": {
+            "name": "Windows NT \/ 95",
+            "versionMajor": 4,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "5.1.2600.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "FAT File System Conversion Utility DLL",
+        "filename": "cnvfat.dll",
+        "filesize": 37376,
+        "md5": "8506440c952787533c6a97f4ed09872c",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6000.16386"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "FAT File System Conversion Utility DLL",
+        "filename": "cnvfat.dll",
+        "filesize": 33280,
+        "md5": "97c882ae4dee3dbf6381bfe98269cccc",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "FAT File System Conversion Utility DLL",
+        "filename": "cnvfat.dll",
+        "filesize": 39424,
+        "md5": "9a06e78a22f2a291d5d5533463e0d92f",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "FAT File System Conversion Utility DLL",
+        "filename": "cnvfat.dll",
+        "filesize": 35328,
+        "md5": "a7d6e87a7f8479625be6b3351452f9e7",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "FAT File System Conversion Utility DLL",
+        "filename": "cnvfat.dll",
+        "filesize": 31232,
+        "md5": "cadf54d0dffbf4413c739beff3bcbe57",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6000.16386"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "FAT File System Conversion Utility DLL",
+        "filename": "cnvfat.dll",
+        "filesize": 40448,
+        "md5": "f6a5490f2b85b6685890a53a832a70b3",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft Direct3D OS Thunk Layer",
+        "filename": "d3d8thk.dll",
+        "filesize": 11776,
+        "md5": "0135a322feddfdac2e6693051dd9bb2f",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft Direct3D OS Thunk Layer",
+        "filename": "d3d8thk.dll",
+        "filesize": 8192,
+        "md5": "0aa59f1f2d73dacca72abf7ad8c55b1c",
+        "os": {
+            "name": "Windows 98",
+            "versionMajor": 4,
+            "versionMinor": 10
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "5.3.2600.5512"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft Direct3D OS Thunk Layer",
+        "filename": "d3d8thk.dll",
+        "filesize": 13824,
+        "md5": "31d327f410b68f23e2616c5383f2e022",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft Direct3D OS Thunk Layer",
+        "filename": "d3d8thk.dll",
+        "filesize": 8192,
+        "md5": "3e5f741c85475af909b2276a65e77da3",
+        "os": {
+            "name": "Windows 98",
+            "versionMajor": 4,
+            "versionMinor": 10
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "5.3.2600.2180"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft Direct3D OS Thunk Layer",
+        "filename": "d3d8thk.dll",
+        "filesize": 14336,
+        "md5": "3efb194760f2c347e53713aa8d7a46c7",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft Direct3D OS Thunk Layer",
+        "filename": "d3d8thk.dll",
+        "filesize": 11264,
+        "md5": "77b1471a490b53b24efe136f09f76550",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft Direct3D OS Thunk Layer",
+        "filename": "d3d8thk.dll",
+        "filesize": 11776,
+        "md5": "8cdb392cee6b7dbdbc4ff8860bf69fcd",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft Direct3D OS Thunk Layer",
+        "filename": "d3d8thk.dll",
+        "filesize": 12800,
+        "md5": "a4b79ca422d0fb36b24665c3a8654ff8",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft Direct3D OS Thunk Layer",
+        "filename": "d3d8thk.dll",
+        "filesize": 12288,
+        "md5": "a66686775795136488cb070bbdc39c13",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.17415"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft Direct3D OS Thunk Layer",
+        "filename": "d3d8thk.dll",
+        "filesize": 11264,
+        "md5": "cd6da5770cae9d5e6e86722e17b442e0",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6000.16386"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft Direct3D OS Thunk Layer",
+        "filename": "d3d8thk.dll",
+        "filesize": 12800,
+        "md5": "e29223d6ee296bb9e4a04daebf940335",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft Direct3D OS Thunk Layer",
+        "filename": "d3d8thk.dll",
+        "filesize": 8192,
+        "md5": "e2fdc90e13ed451a1cf0c8b262fef745",
+        "os": {
+            "name": "Windows 98",
+            "versionMajor": 4,
+            "versionMinor": 10
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "5.1.2600.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft Direct3D OS Thunk Layer",
+        "filename": "d3d8thk.dll",
+        "filesize": 12288,
+        "md5": "e6409b960ccaa48f292a4808e00167c8",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6000.16386"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "DDOI Interface Proxy",
+        "filename": "DDOIProxy.dll",
+        "filesize": 13312,
+        "md5": "5cb8cf07b2a408fb0e168b7943128abc",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "DDOI Interface Proxy",
+        "filename": "DDOIProxy.dll",
+        "filesize": 31232,
+        "md5": "85c920af90f468f3d5a5aa872485b2f2",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "DDOI Interface Proxy",
+        "filename": "DDOIProxy.dll",
+        "filesize": 10752,
+        "md5": "8f40b3a4ec0b64ab7133e7532ba7e5bf",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "DDOI Interface Proxy",
+        "filename": "DDOIProxy.dll",
+        "filesize": 14336,
+        "md5": "bee1c62161dec09f72a865f2af50e1db",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "DDOI Interface Proxy",
+        "filename": "DDOIProxy.dll",
+        "filesize": 13824,
+        "md5": "cfcfbb3fdf82df154e32dd58dfe4f9df",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "DDOI Interface Proxy",
+        "filename": "DDOIProxy.dll",
+        "filesize": 31744,
+        "md5": "e7f662753efa7a3933a84a8699fbe73d",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "DDOI Interface Proxy",
+        "filename": "DDOIProxy.dll",
+        "filesize": 13824,
+        "md5": "ee8296f4de5bd88ba4f8d0c92e3230fa",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft DirectMusic Core Services",
+        "filename": "dmusic.dll",
+        "filesize": 97280,
+        "md5": "4b7ff11ad6329f990dd2c053a3334f69",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft DirectMusic Core Services",
+        "filename": "dmusic.dll",
+        "filesize": 101376,
+        "md5": "5005cc3b8a158bebcadb06940e5292b4",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft DirectMusic Core Services",
+        "filename": "dmusic.dll",
+        "filesize": 101888,
+        "md5": "6703723213c2e8c6f2ab6b671dfba06b",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6001.18000"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft DirectMusic Core Services",
+        "filename": "dmusic.dll",
+        "filesize": 115712,
+        "md5": "6bebdcc7814c961e9b14e8a1b98ac697",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft DirectMusic Core Services",
+        "filename": "dmusic.dll",
+        "filesize": 132608,
+        "md5": "6d2c9a839452360e695fd6984dd7ff6a",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft DirectMusic Core Services",
+        "filename": "dmusic.dll",
+        "filesize": 95744,
+        "md5": "7aec8cb8d1cf8526949fad13b6d573b5",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft DirectMusic Core Services",
+        "filename": "dmusic.dll",
+        "filesize": 137216,
+        "md5": "c94d26820b84bd6104004b9eb2492bdc",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft DirectMusic Core Services",
+        "filename": "dmusic.dll",
+        "filesize": 113664,
+        "md5": "d5d6b937b74b427bf5b1a3b63b6e9f29",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Distributed Routing Table",
+        "filename": "drt.dll",
+        "filesize": 220672,
+        "md5": "42e54151fcce45c6935dffd855942552",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Distributed Routing Table",
+        "filename": "drt.dll",
+        "filesize": 227840,
+        "md5": "889d8dd907e57bacfc26197078868954",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Distributed Routing Table",
+        "filename": "drt.dll",
+        "filesize": 278016,
+        "md5": "96cdb3467d607ff2fcdb4f66295fe719",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Distributed Routing Table",
+        "filename": "drt.dll",
+        "filesize": 275456,
+        "md5": "a5d983191c0988710e2328e66e863994",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Distributed Routing Table",
+        "filename": "drt.dll",
+        "filesize": 221184,
+        "md5": "b58adf74dd50bc9e2d30ef87dd169471",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Distributed Routing Table",
+        "filename": "drt.dll",
+        "filesize": 226304,
+        "md5": "d9d9c18de2c74bc97bad5b1b78bfebc8",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Distributed Routing Table",
+        "filename": "drt.dll",
+        "filesize": 225280,
+        "md5": "ee29fcc244c8033e2f748d863dcbf378",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "ApiSet Stub DLL",
+        "filename": "ext-ms-win-fsutilext-ifsutil-l1-1-0.dll",
+        "filesize": 3584,
+        "md5": "469c403a6e552dcefb6429da0a0fbfde",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "ApiSet Stub DLL",
+        "filename": "ext-ms-win-fsutilext-ifsutil-l1-1-0.dll",
+        "filesize": 3584,
+        "md5": "c33a980c1f161bffd734077cc75ce634",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Function Discovery SSDP Provider Dll",
+        "filename": "fdSSDP.dll",
+        "filesize": 83968,
+        "md5": "01e42f04d0516246251b478ba9748b13",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6001.18000"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Function Discovery SSDP Provider Dll",
+        "filename": "fdSSDP.dll",
+        "filesize": 87040,
+        "md5": "3705204197829fd930d42bc87cded766",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Function Discovery SSDP Provider Dll",
+        "filename": "fdSSDP.dll",
+        "filesize": 76800,
+        "md5": "674611721264013db169ec12afc9c3b6",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Function Discovery SSDP Provider Dll",
+        "filename": "fdSSDP.dll",
+        "filesize": 91136,
+        "md5": "7e113ebbb80fda8cc0800bf999ff863b",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Function Discovery SSDP Provider Dll",
+        "filename": "fdSSDP.dll",
+        "filesize": 68096,
+        "md5": "88940e369ce544704662621267c6615e",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6001.18000"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Function Discovery SSDP Provider Dll",
+        "filename": "fdSSDP.dll",
+        "filesize": 106496,
+        "md5": "b7f3ed639765137d39dc1e6bf8873a38",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Function Discovery SSDP Provider Dll",
+        "filename": "fdSSDP.dll",
+        "filesize": 90624,
+        "md5": "c66eb441df2d4d23473335d2b8f7cfe9",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Function Discovery SSDP Provider Dll",
+        "filename": "fdSSDP.dll",
+        "filesize": 85504,
+        "md5": "e4a671844049e27db4b929937ef7438a",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Function Discovery SSDP Provider Dll",
+        "filename": "fdSSDP.dll",
+        "filesize": 109056,
+        "md5": "f2eefb4867294f752f287e73c543f2e1",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Find Network Printers COM Component",
+        "filename": "findnetprinters.dll",
+        "filesize": 73216,
+        "md5": "112a053d6d5d015046412e89a9c7e0e8",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6001.18000"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Find Network Printers COM Component",
+        "filename": "findnetprinters.dll",
+        "filesize": 66560,
+        "md5": "2bf15282131d42ef2acb797877fe548f",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Find Network Printers COM Component",
+        "filename": "findnetprinters.dll",
+        "filesize": 64512,
+        "md5": "3133ca3734379d9c79868819db7da7bc",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6001.18000"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Find Network Printers COM Component",
+        "filename": "findnetprinters.dll",
+        "filesize": 55296,
+        "md5": "51591d8107a9022c5ceb81f745863694",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Find Network Printers COM Component",
+        "filename": "findnetprinters.dll",
+        "filesize": 65536,
+        "md5": "620452a024dc5b853166b8e8511eef1a",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Find Network Printers COM Component",
+        "filename": "findnetprinters.dll",
+        "filesize": 55296,
+        "md5": "6a251332fd6b0692d282eca4f4d03521",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Find Network Printers COM Component",
+        "filename": "findnetprinters.dll",
+        "filesize": 53760,
+        "md5": "710e1cc20ce77842ccd1b4d227528e56",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Find Network Printers COM Component",
+        "filename": "findnetprinters.dll",
+        "filesize": 54272,
+        "md5": "a1ea1e025cb97ffb5f401c0dfdd07b59",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Find Network Printers COM Component",
+        "filename": "findnetprinters.dll",
+        "filesize": 58368,
+        "md5": "e83dd6f6bba2d6d16a6e69ee56fb7eb6",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "IOD Version Map",
+        "filename": "iesetup.dll",
+        "filesize": 96768,
+        "md5": "0e974cda398529d141c549a46f2c377d",
+        "os": {
+            "name": "Windows Server 2003",
+            "versionMajor": 5,
+            "versionMinor": 2
+        },
+        "productname": "Windows\u00ae Internet Explorer",
+        "version": "7.0.6001.18000"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "IOD Version Map",
+        "filename": "iesetup.dll",
+        "filesize": 71680,
+        "md5": "1b6ff5b9a21de2e89bb014932a414e7e",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Windows\u00ae Internet Explorer",
+        "version": "8.0.6001.18702"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "IOD Version Map",
+        "filename": "iesetup.dll",
+        "filesize": 62464,
+        "md5": "26f4bdb6ea83011885e217a51a4a3e68",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Internet Explorer",
+        "version": "11.0.9600.17416"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "IOD Version Map",
+        "filename": "iesetup.dll",
+        "filesize": 69120,
+        "md5": "4546eaa7ebe7c035fed0fd9519c69a11",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Windows\u00ae Internet Explorer",
+        "version": "7.0.6001.18000"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "IOD Version Map",
+        "filename": "iesetup.dll",
+        "filesize": 61952,
+        "md5": "4f5623797e2230c18fb78531919b4c59",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Internet Explorer",
+        "version": "11.0.9600.17031"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "IOD Version Map",
+        "filename": "iesetup.dll",
+        "filesize": 61440,
+        "md5": "5e2ab989e69f3c7038547a01e29c67e7",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Internet Explorer",
+        "version": "11.0.14393.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "IOD Version Map",
+        "filename": "iesetup.dll",
+        "filesize": 66560,
+        "md5": "5f8178a9c45d9c69819c63afc5988c33",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Internet Explorer",
+        "version": "11.0.10586.17"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "IOD Version Map",
+        "filename": "iesetup.dll",
+        "filesize": 61440,
+        "md5": "7947cf609a0e4f21122521f62b96e0bd",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Internet Explorer",
+        "version": "11.0.10586.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "IOD Version Map",
+        "filename": "iesetup.dll",
+        "filesize": 66560,
+        "md5": "b3b18f923249c2a85ca6cc35a82bad23",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Internet Explorer",
+        "version": "11.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "IOD Version Map",
+        "filename": "iesetup.dll",
+        "filesize": 62464,
+        "md5": "bd838e2129623e8311720aa86c5dfbbf",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Internet Explorer",
+        "version": "11.0.9600.17689"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "IOD Version Map",
+        "filename": "iesetup.dll",
+        "filesize": 61440,
+        "md5": "be8f3297a0bc3d3e3b66d9a45f64f0b9",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Windows\u00ae Internet Explorer",
+        "version": "10.0.9200.16720"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "IOD Version Map",
+        "filename": "iesetup.dll",
+        "filesize": 61440,
+        "md5": "bfdd0c5f3e435596f197f003609989c4",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Windows\u00ae Internet Explorer",
+        "version": "10.0.9200.16537"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "IOD Version Map",
+        "filename": "iesetup.dll",
+        "filesize": 66048,
+        "md5": "c1e2c16d58d76323800c3ee5e2c5095a",
+        "os": {
+            "name": "Windows Server 2003",
+            "versionMajor": 5,
+            "versionMinor": 2
+        },
+        "productname": "Internet Explorer",
+        "version": "11.0.9600.16518"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "IOD Version Map",
+        "filename": "iesetup.dll",
+        "filesize": 61952,
+        "md5": "d9f5b424c307b195e16a9b0a21e53bcc",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Internet Explorer",
+        "version": "11.0.9600.17126"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "IOD Version Map",
+        "filename": "iesetup.dll",
+        "filesize": 66560,
+        "md5": "e99e2e88bfe584184ae92b1f8995ce93",
+        "os": {
+            "name": "Windows Server 2003",
+            "versionMajor": 5,
+            "versionMinor": 2
+        },
+        "productname": "Internet Explorer",
+        "version": "11.0.9600.17416"
+    },
+    {
+        "bits": 32,
+        "companyname": "Autodesk, Inc.",
+        "description": "Autodesk component",
+        "filename": "LiteHtml.dll",
+        "filesize": 170888,
+        "md5": "0e49ae7b462ee9558a799f6fef875517",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "-",
+        "version": "7.0.53.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Autodesk, Inc.",
+        "description": "Autodesk component",
+        "filename": "LiteHtml.dll",
+        "filesize": 92824,
+        "md5": "2fcf31798fbdf977c0ceaab471a66a48",
+        "os": {
+            "name": "Windows NT \/ 95",
+            "versionMajor": 4,
+            "versionMinor": 0
+        },
+        "productname": "-",
+        "version": "17.2.56.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Autodesk, Inc.",
+        "description": "AutoCAD component",
+        "filename": "LiteHtml.dll",
+        "filesize": 93800,
+        "md5": "8b45b282058c8ee64ed1a924154a01d8",
+        "os": {
+            "name": "Windows NT \/ 95",
+            "versionMajor": 4,
+            "versionMinor": 0
+        },
+        "productname": "AutoCAD",
+        "version": "17.1.51.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft Windows BITS Managed Library",
+        "filename": "Microsoft.BackgroundIntelligentTransfer.Management.Interop.dll",
+        "filesize": 104448,
+        "md5": "6f6f04803547149815fe3ddd80c6d412",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "7.5.7601.17514"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft Windows BITS Managed Library",
+        "filename": "Microsoft.BackgroundIntelligentTransfer.Management.Interop.dll",
+        "filesize": 113152,
+        "md5": "8c08afc03e25b48f5c1c2fd86f5d0746",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "7.7.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft Windows BITS Managed Library",
+        "filename": "Microsoft.BackgroundIntelligentTransfer.Management.Interop.dll",
+        "filesize": 112640,
+        "md5": "e21648fbf03eaa19d3ddd81aaaa19ce9",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "7.6.9200.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows NT Setup Icon Resources Library",
+        "filename": "moricons.dll",
+        "filesize": 216064,
+        "md5": "093ce46c61596734994d5c93dc584f5c",
+        "os": {
+            "name": "Windows 98",
+            "versionMajor": 4,
+            "versionMinor": 10
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "5.1.2600.5512"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows NT Setup Icon Resources Library",
+        "filename": "moricons.dll",
+        "filesize": 184832,
+        "md5": "31bcc27e1cffac7850fd3ed6f80bb2b9",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows NT Setup Icon Resources Library",
+        "filename": "moricons.dll",
+        "filesize": 185856,
+        "md5": "52c6a8e9d7e8e002ec661d4f7f005ea0",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows NT Setup Icon Resources Library",
+        "filename": "moricons.dll",
+        "filesize": 184832,
+        "md5": "57f5ab3435147d206e5ee191d10e87f9",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows NT Setup Icon Resources Library",
+        "filename": "moricons.dll",
+        "filesize": 184832,
+        "md5": "6c8bf28fcaf3e258e2fa28582a1ee365",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6000.16386"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows NT Setup Icon Resources Library",
+        "filename": "moricons.dll",
+        "filesize": 184832,
+        "md5": "895449723b926cb916c34c6faf704a49",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6000.16386"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows NT Setup Icon Resources Library",
+        "filename": "moricons.dll",
+        "filesize": 185856,
+        "md5": "94de57c8abf71531004a55faa9df5b87",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows NT Setup Icon Resources Library",
+        "filename": "moricons.dll",
+        "filesize": 184832,
+        "md5": "ca61930c9b360835ec6514926c363e60",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows NT Setup Icon Resources Library",
+        "filename": "moricons.dll",
+        "filesize": 185344,
+        "md5": "d3c2c9ca98eaa780da050f451c6f57ea",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows NT Setup Icon Resources Library",
+        "filename": "moricons.dll",
+        "filesize": 185344,
+        "md5": "e52c9fe5bdc958c1870f6effa352d8b7",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows NT Setup Icon Resources Library",
+        "filename": "moricons.dll",
+        "filesize": 216064,
+        "md5": "fe1f17753bda9c674b7c22471ac0c2de",
+        "os": {
+            "name": "Windows 98",
+            "versionMajor": 4,
+            "versionMinor": 10
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "5.1.2600.2180"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows Media MPEG-4 S Video Decoder",
+        "filename": "MP4SDECD.DLL",
+        "filesize": 415744,
+        "md5": "44e27c2346456b3618600bdd05207031",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows Media MPEG-4 S Video Decoder",
+        "filename": "MP4SDECD.DLL",
+        "filesize": 436736,
+        "md5": "6eaeb51d664feba37e2066695446978d",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16496"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows Media MPEG-4 S Video Decoder",
+        "filename": "MP4SDECD.DLL",
+        "filesize": 446192,
+        "md5": "73c65ce004343df741e3c880d9d06586",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows Media MPEG-4 S Video Decoder",
+        "filename": "MP4SDECD.DLL",
+        "filesize": 295424,
+        "md5": "950d5b3d6c6b030e73976f139c735b64",
+        "os": {
+            "name": "Windows Server 2003",
+            "versionMajor": 5,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "11.0.6001.7009"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows Media MPEG-4 S Video Decoder",
+        "filename": "MP4SDECD.DLL",
+        "filesize": 317952,
+        "md5": "b0419a01a95d3facebc4a30d42cf624a",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "11.0.6001.7009"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows NT MQ Client AD Access",
+        "filename": "mqad.dll",
+        "filesize": 138240,
+        "md5": "0fc61e4663e04d4f06ac62570beebc0e",
+        "os": {
+            "name": "Windows 98",
+            "versionMajor": 4,
+            "versionMinor": 10
+        },
+        "productname": "Microsoft Message Queue",
+        "version": "5.1.0.1108"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows NT MQ Client AD Access",
+        "filename": "mqad.dll",
+        "filesize": 138240,
+        "md5": "c9441d5e5c0c67463fac089f4f6a6439",
+        "os": {
+            "name": "Windows 98",
+            "versionMajor": 4,
+            "versionMinor": 10
+        },
+        "productname": "Microsoft Message Queue",
+        "version": "5.1.0.1110"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Mount Point Manger Sysprep Utility Library",
+        "filename": "msmmsp.dll",
+        "filesize": 11264,
+        "md5": "18ce2ae9fe99c537d5a7c30c38f6a6a5",
+        "os": {
+            "name": "Windows Server 2003",
+            "versionMajor": 5,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6000.16386"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Mount Point Manger Sysprep Utility Library",
+        "filename": "msmmsp.dll",
+        "filesize": 10752,
+        "md5": "6028d7929dfc6f7465e08edc1388f79a",
+        "os": {
+            "name": "Windows 2000",
+            "versionMajor": 5,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "msoobewirelessplugin",
+        "filename": "msoobewirelessplugin.dll",
+        "filesize": 75776,
+        "md5": "0c7ab28fc1e900645923cc22ad1a8993",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "msoobewirelessplugin",
+        "filename": "msoobewirelessplugin.dll",
+        "filesize": 42496,
+        "md5": "ba78d14c9c3fd651f5f68dc1f03a65cd",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "msscntrs.dll",
+        "filename": "msscntrs.dll",
+        "filesize": 59392,
+        "md5": "2dc6285ec4f902be08e7c5fa6d3fd017",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Windows\u00ae Search",
+        "version": "7.0.7601.17610"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "PKM Perfmon Counter DLL",
+        "filename": "msscntrs.dll",
+        "filesize": 40960,
+        "md5": "7b5d06bded5dfdf28597a9c5f72e85ce",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Windows\u00ae Search",
+        "version": "7.0.10586.494"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "PKM Perfmon Counter DLL",
+        "filename": "msscntrs.dll",
+        "filesize": 48640,
+        "md5": "891c9f27fdf801db98f1cbfa7a5b5192",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Windows\u00ae Search",
+        "version": "7.0.9200.16433"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "PKM Perfmon Counter DLL",
+        "filename": "msscntrs.dll",
+        "filesize": 52736,
+        "md5": "bda6b6ae384636639f7a4333c1c8e376",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Windows\\xae Search",
+        "version": "7.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "PKM Perfmon Counter DLL",
+        "filename": "msscntrs.dll",
+        "filesize": 41472,
+        "md5": "bf86f61bd8cef45de3b66d24435e25cd",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Windows\\xae Search",
+        "version": "7.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "PKM Perfmon Counter DLL",
+        "filename": "msscntrs.dll",
+        "filesize": 32768,
+        "md5": "c2230c9a5f4da4fe5ef9462047429082",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Windows\u00ae Search",
+        "version": "7.0.10586.494"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "PKM Perfmon Counter DLL",
+        "filename": "msscntrs.dll",
+        "filesize": 36352,
+        "md5": "c738b57dab7d2c0028426a7446c6c53b",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Windows\u00ae Search",
+        "version": "7.0.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "msscntrs.dll",
+        "filename": "msscntrs.dll",
+        "filesize": 60416,
+        "md5": "f1aa467825079b05d590d475432b4066",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "7.0.6001.16503"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "msscntrs.dll",
+        "filename": "msscntrs.dll",
+        "filesize": 73728,
+        "md5": "fdebb0f5eb36d1a2c3c84bc007da12ae",
+        "os": {
+            "name": "Windows Server 2003",
+            "versionMajor": 5,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "7.0.6001.16503"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft\u00ae C Runtime Library",
+        "filename": "msvcp110.dll",
+        "filesize": 500600,
+        "md5": "20c0afa9589cfea14ea0ef8cba67f93b",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Visual Studio\u00ae 2012 RC",
+        "version": "11.0.50522.1"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft\u00ae C Runtime Library",
+        "filename": "msvcp110.dll",
+        "filesize": 617536,
+        "md5": "26f0d5b1e6d1511dbb119725b05b4cb3",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Visual Studio\u00ae 11 Beta",
+        "version": "11.0.50214.1"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft\u00ae C Runtime Library",
+        "filename": "msvcp110.dll",
+        "filesize": 661448,
+        "md5": "349b1d5d8d1b5a7b10bcd01470bd5f64",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Visual Studio\u00ae 2012",
+        "version": "11.0.50727.1"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft\u00ae C Runtime Library",
+        "filename": "msvcp110.dll",
+        "filesize": 535008,
+        "md5": "3e29914113ec4b968ba5eb1f6d194a0a",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Visual Studio\u00ae 2012",
+        "version": "11.0.51106.1"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft\u00ae C Runtime Library",
+        "filename": "msvcp110.dll",
+        "filesize": 661456,
+        "md5": "7caa1b97a3311eb5a695e3c9028616e7",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Visual Studio\u00ae 2012",
+        "version": "11.0.51106.1"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft\u00ae C Runtime Library",
+        "filename": "msvcp110.dll",
+        "filesize": 534480,
+        "md5": "ab09ce954c647f3c2b4328b57d519996",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Visual Studio\u00ae 2012",
+        "version": "11.0.50727.1"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft\u00ae C Runtime Library",
+        "filename": "msvcr120d.dll",
+        "filesize": 1824344,
+        "md5": "3a285feb516e97b0d58c1634acd19431",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Visual Studio\u00ae 2013 RC",
+        "version": "12.0.20827.3"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft\u00ae C Runtime Library",
+        "filename": "msvcr120d.dll",
+        "filesize": 2150568,
+        "md5": "b22ed6ec076a0c722fcb01a3be499596",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Visual Studio\u00ae 2013",
+        "version": "12.0.21005.1"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft\u00ae C Runtime Library",
+        "filename": "msvcr120d.dll",
+        "filesize": 1824424,
+        "md5": "f67ca8d338dfd99e3c540336221f8fa7",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Visual Studio\u00ae 2013",
+        "version": "12.0.21005.1"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft\\xae C Runtime Library",
+        "filename": "msvcr90.dll",
+        "filesize": 642192,
+        "md5": "478709df780f6498b71bc3bdd5004514",
+        "os": {
+            "name": "Windows Server 2003",
+            "versionMajor": 5,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\\xae Visual Studio\\xae 2008",
+        "version": "9.0.30729.9247"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft\\xae C Runtime Library",
+        "filename": "msvcr90.dll",
+        "filesize": 653968,
+        "md5": "5bc75d03abf8ebaf9c5ea4e354dfb840",
+        "os": {
+            "name": "Windows 2000",
+            "versionMajor": 5,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Visual Studio\\xae 2008",
+        "version": "9.0.30729.9247"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft\u00ae C Runtime Library",
+        "filename": "msvcr90.dll",
+        "filesize": 653136,
+        "md5": "cdbe9690cf2b8409facad94fac9479c9",
+        "os": {
+            "name": "Windows 2000",
+            "versionMajor": 5,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Visual Studio\u00ae 2008",
+        "version": "9.0.30729.6161"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft\u00ae C Runtime Library",
+        "filename": "msvcr90.dll",
+        "filesize": 655872,
+        "md5": "e7d91d008fe76423962b91c43c88e4eb",
+        "os": {
+            "name": "Windows 2000",
+            "versionMajor": 5,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Visual Studio\u00ae 2008",
+        "version": "9.0.21022.8"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "NegoExtender Security Package",
+        "filename": "negoexts.dll",
+        "filesize": 120832,
+        "md5": "2d82a5e1c9c8a513d3bbc2f9dd9a9fc9",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "NegoExtender Security Package",
+        "filename": "negoexts.dll",
+        "filesize": 112128,
+        "md5": "4a04a2fb2aa959de69504e6b606319ea",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "NegoExtender Security Package",
+        "filename": "negoexts.dll",
+        "filesize": 94720,
+        "md5": "5825b489b8380594970bc0873d4f4e07",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "NegoExtender Security Package",
+        "filename": "negoexts.dll",
+        "filesize": 93696,
+        "md5": "6dcfaec6d1334aa6cdf8961db4633cbf",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "NegoExtender Security Package",
+        "filename": "negoexts.dll",
+        "filesize": 103936,
+        "md5": "9cc445e9bfe790100fe2287c183a8ee2",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "NegoExtender Security Package",
+        "filename": "negoexts.dll",
+        "filesize": 98816,
+        "md5": "c2faad798f8d13d5807b0d0bbb884eba",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "NegoExtender Security Package",
+        "filename": "negoexts.dll",
+        "filesize": 104960,
+        "md5": "ffb85c6e698b549747ae6191bf1c6598",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft NLS Core Migration Lib",
+        "filename": "nlscoremig.dll",
+        "filesize": 98304,
+        "md5": "01db8eabb372c4b522b1e081be735d84",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft NLS Core Migration Lib",
+        "filename": "nlscoremig.dll",
+        "filesize": 97280,
+        "md5": "2527bcf6f2d3f891964fc191664a8d02",
+        "os": {
+            "name": "Windows 2000",
+            "versionMajor": 5,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft NLS Core Migration Lib",
+        "filename": "nlscoremig.dll",
+        "filesize": 102400,
+        "md5": "2aa4cf6ef2d58a87c9bfa3fdc486aad7",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft NLS Core Migration Lib",
+        "filename": "nlscoremig.dll",
+        "filesize": 97280,
+        "md5": "39e2d6f5a0745707bcc5c5df28abf389",
+        "os": {
+            "name": "Windows 2000",
+            "versionMajor": 5,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Power Troubleshooter",
+        "filename": "pots.dll",
+        "filesize": 22528,
+        "md5": "2b389c1ac7186c32dc695e28e5ecea32",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Power Troubleshooter",
+        "filename": "pots.dll",
+        "filesize": 28672,
+        "md5": "2fb0fa2131254951f35eade3cd30a201",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Power Troubleshooter",
+        "filename": "pots.dll",
+        "filesize": 32256,
+        "md5": "67c033dacd0491d23e78a056f71bbd18",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Power Troubleshooter",
+        "filename": "pots.dll",
+        "filesize": 19968,
+        "md5": "7df0b7248bfa13c39e9e7895b5184a73",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6001.18000"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Power Troubleshooter",
+        "filename": "pots.dll",
+        "filesize": 35328,
+        "md5": "9a810c2ba592b428574c98e4914b6423",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Power Troubleshooter",
+        "filename": "pots.dll",
+        "filesize": 32256,
+        "md5": "d86112923350fd1cf783b67bf58b1e94",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Power Troubleshooter",
+        "filename": "pots.dll",
+        "filesize": 16896,
+        "md5": "db551a68e81c9049ae050dc0729f3fed",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6001.18000"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Power Troubleshooter",
+        "filename": "pots.dll",
+        "filesize": 27136,
+        "md5": "dd291b304a680c582e0b9bd838ff09e1",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Power Troubleshooter",
+        "filename": "pots.dll",
+        "filesize": 35328,
+        "md5": "ea794b0e58c69596b5c1c3001536bc03",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Proximity WinRT API PAL",
+        "filename": "ProximityRtapiPal.dll",
+        "filesize": 11776,
+        "md5": "448773375099ffedeb94f0fe7789043a",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Proximity WinRT API PAL",
+        "filename": "ProximityRtapiPal.dll",
+        "filesize": 12288,
+        "md5": "b5a44321f2e69fa0fadcfef9cf2d5ead",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Proximity WinRT API PAL",
+        "filename": "ProximityRtapiPal.dll",
+        "filesize": 13824,
+        "md5": "bd1ce92b5767e7075905d1e80955efa4",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Proximity WinRT API PAL",
+        "filename": "ProximityRtapiPal.dll",
+        "filesize": 12288,
+        "md5": "cba5c7b57d6a46327402f27c6ca493e4",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Proximity WinRT API PAL",
+        "filename": "ProximityRtapiPal.dll",
+        "filesize": 13824,
+        "md5": "dec679718f4ead0795cf5f054c31fdb9",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "WMI",
+        "filename": "prvdmofcomp.dll",
+        "filesize": 58880,
+        "md5": "1b4cec93d52317d3823cefc8bcafd581",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "WMI",
+        "filename": "prvdmofcomp.dll",
+        "filesize": 63488,
+        "md5": "279cbe26953271ecab8ee6509acf3a62",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "WMI",
+        "filename": "prvdmofcomp.dll",
+        "filesize": 82944,
+        "md5": "79dc90532e7dab54dbdd8d32c6133af7",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "WMI",
+        "filename": "prvdmofcomp.dll",
+        "filesize": 84480,
+        "md5": "98eb0dd53ffdce0f0181083e747cd1d4",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "WMI",
+        "filename": "prvdmofcomp.dll",
+        "filesize": 60928,
+        "md5": "e51af7fa9224b3930ce431496e3e28be",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "WMI",
+        "filename": "prvdmofcomp.dll",
+        "filesize": 63488,
+        "md5": "fcf08b1edcb439c79f8e297ee2e21d68",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft ScriptO",
+        "filename": "scripto.dll",
+        "filesize": 57856,
+        "md5": "0cdc907cbc81b218035442cd81afbe1d",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.6.6000.16386"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft ScriptO",
+        "filename": "scripto.dll",
+        "filesize": 59904,
+        "md5": "2fb3883237c6ed307a90e02dbf18d490",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.6.9600.16384"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft ScriptO",
+        "filename": "scripto.dll",
+        "filesize": 73728,
+        "md5": "37022bed02d30739a439bd3f26d0e50a",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "6.6.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft ScriptO",
+        "filename": "scripto.dll",
+        "filesize": 57856,
+        "md5": "78c1ae0f93a592cbeb86f0987a49e6cf",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.6.7600.16385"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft ScriptO",
+        "filename": "scripto.dll",
+        "filesize": 76800,
+        "md5": "8d119734df28e66005e377dcff2b365f",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.6.6000.16386"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft ScriptO",
+        "filename": "scripto.dll",
+        "filesize": 76288,
+        "md5": "a82666bb66ae806b7f5291ca8fb29786",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.6.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft ScriptO",
+        "filename": "scripto.dll",
+        "filesize": 62464,
+        "md5": "b99c774f4a2bddb22798107a4ccfd8d2",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.6.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft ScriptO",
+        "filename": "scripto.dll",
+        "filesize": 62464,
+        "md5": "da138aa52b9f06fec10f20a800723d58",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "6.6.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Microsoft ScriptO",
+        "filename": "scripto.dll",
+        "filesize": 58880,
+        "md5": "de0ac4d4dedf861cca3c19aa35793c7f",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.6.9200.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Set Network Location Utility",
+        "filename": "SetNetworkLocation.dll",
+        "filesize": 35840,
+        "md5": "b6e94d847c1606240ddf5969e7af794d",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.17042"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Set Network Location Utility",
+        "filename": "SetNetworkLocation.dll",
+        "filesize": 35328,
+        "md5": "dffe1e7197a71f46a1d8cd90dd6b1391",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows vault Control Panel",
+        "filename": "Vault.dll",
+        "filesize": 744448,
+        "md5": "2ca26d3f2e4b081a3231ae871ab4397f",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows vault Control Panel",
+        "filename": "Vault.dll",
+        "filesize": 673280,
+        "md5": "47d866ed9f22185afd420667c20d3a97",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows vault Control Panel",
+        "filename": "Vault.dll",
+        "filesize": 670208,
+        "md5": "584c53028c90ebae9d73767795bd4d5d",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows vault Control Panel",
+        "filename": "Vault.dll",
+        "filesize": 933376,
+        "md5": "669e18322f05a14356e8f6da16d15da0",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7601.17514"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows vault Control Panel",
+        "filename": "Vault.dll",
+        "filesize": 751104,
+        "md5": "812815327fadf8dd02a8b23160c5aaa4",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows vault Control Panel",
+        "filename": "Vault.dll",
+        "filesize": 675328,
+        "md5": "a93cb7f9df7c1a33aaa0986bfad12f78",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows vault Control Panel",
+        "filename": "Vault.dll",
+        "filesize": 674816,
+        "md5": "ea43de016986efaffe92c4f84d1e853a",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Version Checking and File Installation Libraries",
+        "filename": "version.dll",
+        "filesize": 27360,
+        "md5": "181fe38c3fe164fbfc1a5a8399ccc2da",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Version Checking and File Installation Libraries",
+        "filename": "version.dll",
+        "filesize": 20480,
+        "md5": "187d588f7a1a45de48b8540401a90850",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6001.18000"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Version Checking and File Installation Libraries",
+        "filename": "version.dll",
+        "filesize": 16384,
+        "md5": "682c3d4982b5375732a4273809365a0a",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Version Checking and File Installation Libraries",
+        "filename": "version.dll",
+        "filesize": 20480,
+        "md5": "69827805a221c21450ba22f4326a2ee3",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6002.18005"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Version Checking and File Installation Libraries",
+        "filename": "version.dll",
+        "filesize": 21504,
+        "md5": "702254574e7e52052de39408457b7149",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Version Checking and File Installation Libraries",
+        "filename": "version.dll",
+        "filesize": 27360,
+        "md5": "85bd82333fc4ae6cff706f140a67b1b0",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Version Checking and File Installation Libraries",
+        "filename": "version.dll",
+        "filesize": 27136,
+        "md5": "8777e0d0f6ac09ca26aff1bb43fbb004",
+        "os": {
+            "name": "Windows Vista",
+            "versionMajor": 6,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.0.6001.18000"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Version Checking and File Installation Libraries",
+        "filename": "version.dll",
+        "filesize": 31528,
+        "md5": "b32d772e48f1a49cebdb04cc33f693f7",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Version Checking and File Installation Libraries",
+        "filename": "version.dll",
+        "filesize": 18944,
+        "md5": "c7ce131408739b0b3a318be2d0032719",
+        "os": {
+            "name": "Windows NT \/ 95",
+            "versionMajor": 4,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "5.1.2600.5512"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Version Checking and File Installation Libraries",
+        "filename": "version.dll",
+        "filesize": 30504,
+        "md5": "cfdb018ac09f879caae7a66ca7880d57",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Version Checking and File Installation Libraries",
+        "filename": "version.dll",
+        "filesize": 25824,
+        "md5": "db530b4c83dc2439ea2397613c841af4",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Version Checking and File Installation Libraries",
+        "filename": "version.dll",
+        "filesize": 18944,
+        "md5": "e1f32fdd68451516a7386abe70943e82",
+        "os": {
+            "name": "Windows NT \/ 95",
+            "versionMajor": 4,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "5.1.2600.2180"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Version Checking and File Installation Libraries",
+        "filename": "version.dll",
+        "filesize": 18944,
+        "md5": "ed8775b4f9d11aa2e102624cc4110e93",
+        "os": {
+            "name": "Windows NT \/ 95",
+            "versionMajor": 4,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "5.1.2600.5512"
+    },
+    {
+        "bits": 32,
+        "companyname": "Valve Corporation",
+        "description": "vstdlib_ s.dll",
+        "filename": "vstdlib.dll",
+        "filesize": 340480,
+        "md5": "91bc6ecb8d841dd4911b983118553d49",
+        "os": {
+            "name": "Windows NT \/ 95",
+            "versionMajor": 4,
+            "versionMinor": 0
+        },
+        "productname": "Steam",
+        "version": "3.0.0.1"
+    },
+    {
+        "bits": 32,
+        "companyname": "Valve Corporation",
+        "description": "vstdlib_ s.dll",
+        "filename": "vstdlib.dll",
+        "filesize": 330752,
+        "md5": "93bc3085189759948b51e8277403901f",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Steam",
+        "version": "3.0.0.1"
+    },
+    {
+        "bits": 32,
+        "companyname": "Valve Corporation",
+        "description": "vstdlib_ s.dll",
+        "filename": "vstdlib_s.dll",
+        "filesize": 284960,
+        "md5": "3474cdad27d900e9f9503b4488aa903a",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Steam",
+        "version": "3.55.92.67"
+    },
+    {
+        "bits": 32,
+        "companyname": "Valve Corporation",
+        "description": "vstdlib_ s.dll",
+        "filename": "vstdlib_s.dll",
+        "filesize": 322296,
+        "md5": "5b91159484d32c72ebd23487b01bbacb",
+        "os": {
+            "name": "Windows NT \/ 95",
+            "versionMajor": 4,
+            "versionMinor": 0
+        },
+        "productname": "Steam",
+        "version": "3.0.0.1"
+    },
+    {
+        "bits": 32,
+        "companyname": "Valve Corporation",
+        "description": "vstdlib_ s.dll (buildbot_winslave04_steam_steam_rel_client_win32@winslave04)",
+        "filename": "vstdlib_s.dll",
+        "filesize": 223144,
+        "md5": "94d957210d137464d9a9bc3cdc0e116a",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Steam",
+        "version": "1.71.93.25"
+    },
+    {
+        "bits": 32,
+        "companyname": "Valve Corporation",
+        "description": "vstdlib_ s.dll",
+        "filename": "vstdlib_s.dll",
+        "filesize": 264272,
+        "md5": "998325257d897a1b4870512a0be88c9f",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Steam",
+        "version": "3.27.76.74"
+    },
+    {
+        "bits": 32,
+        "companyname": "Valve Corporation",
+        "description": "vstdlib_ s.dll (buildbot_winslave04_steam_steam_rel_client_win32@winslave04)",
+        "filename": "vstdlib_s.dll",
+        "filesize": 235944,
+        "md5": "cb93c22d0e6e6a52d0a3c609556913c1",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Steam",
+        "version": "1.94.20.38"
+    },
+    {
+        "bits": 32,
+        "companyname": "Valve Corporation",
+        "description": "vstdlib_ s.dll",
+        "filename": "vstdlib_s.dll",
+        "filesize": 264272,
+        "md5": "d6d5b264eeb24c3d68430a35dd129919",
+        "os": {
+            "name": "Windows XP",
+            "versionMajor": 5,
+            "versionMinor": 1
+        },
+        "productname": "Steam",
+        "version": "3.28.10.53"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows Runtime Devices Scanners DLL",
+        "filename": "Windows.Devices.Scanners.dll",
+        "filesize": 168448,
+        "md5": "05b15bd9c92be52f35a2295b22c5d892",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.162"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows Runtime Devices Scanners DLL",
+        "filename": "Windows.Devices.Scanners.dll",
+        "filesize": 216576,
+        "md5": "085e890d81ecefb85deb406d8c7504b6",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 64,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows Runtime Devices Scanners DLL",
+        "filename": "Windows.Devices.Scanners.dll",
+        "filesize": 214528,
+        "md5": "3f8466cc13d1f614c8fac24b1c030d59",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "10.0.10586.162"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows Runtime Devices Scanners DLL",
+        "filename": "Windows.Devices.Scanners.dll",
+        "filesize": 151040,
+        "md5": "503281e8561b81fc080887ecaf5f5e31",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.17041"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "Windows Runtime Devices Scanners DLL",
+        "filename": "Windows.Devices.Scanners.dll",
+        "filesize": 175616,
+        "md5": "a864d978d9710750432103a7a8142069",
+        "os": {
+            "name": "Windows 10",
+            "versionMajor": 10,
+            "versionMinor": 0
+        },
+        "productname": "Microsoft\\xae Windows\\xae Operating System",
+        "version": "10.0.14393.0"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "WMI XML Convertor",
+        "filename": "wmi2xml.dll",
+        "filesize": 66048,
+        "md5": "33386de1bb3b9176e085b027f2db2a1a",
+        "os": {
+            "name": "Windows 8.1",
+            "versionMajor": 6,
+            "versionMinor": 3
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.3.9600.16384"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "WMI XML Convertor",
+        "filename": "wmi2xml.dll",
+        "filesize": 61952,
+        "md5": "b1757cc102d0c3082f4048e94de653cc",
+        "os": {
+            "name": "Windows 7 \/ Server 2008",
+            "versionMajor": 6,
+            "versionMinor": 1
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.1.7600.16385"
+    },
+    {
+        "bits": 32,
+        "companyname": "Microsoft Corporation",
+        "description": "WMI XML Convertor",
+        "filename": "wmi2xml.dll",
+        "filesize": 64512,
+        "md5": "b1a1ff246abb1aec406dfe35aeddaf70",
+        "os": {
+            "name": "Windows 8",
+            "versionMajor": 6,
+            "versionMinor": 2
+        },
+        "productname": "Microsoft\u00ae Windows\u00ae Operating System",
+        "version": "6.2.9200.16384"
+    }
+]
