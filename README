@@ -1,0 +1,23 @@
+***README Developer Application Test***
+
+The goal is to create a small web application backed by supplied data containing information about a number of DLL files.
+
+***Software requirements and Basic Installations***
+
+Operating System: Ubuntu 16.04 LTS.
+Apache server and PHP.
+             
+***Install LAMP server package from terminal sudo apt-get install lamp-server^
+
+***Steps to run Developer Application Test***
+
+*Download and extract the tar file "Tilftest.tar.gz"
+*Place the extracted folder "Tilftest" in the location var/www/html
+*Open web browser and type "localhost/Tilftest" to see "Alphabetic Index View". Select an alphbet to view desired file names and description. 
+*Click on filename to see "Filename view" which displays complete data of selected dll filename.
+*Search option is included in both pages/views to search for dll filenames.
+*Dll data is sorted according to version(versionMajor.versionMinor) and grouped based on operating system.
+  
+***Note***
+*Make sure that Apache Server is running sudo /etc/init.d/apache2 restart.
+*Check for PHP7 version php --version.
